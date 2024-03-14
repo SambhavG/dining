@@ -117,11 +117,6 @@
 </main>
 
 <style>
-  ul,
-  li {
-    text-align: left;
-  }
-
   .mealCard {
     display: flex;
     flex-direction: row;
